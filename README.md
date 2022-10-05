@@ -8,6 +8,8 @@ If you want to change number of iterations you must edit **index.js** file and c
 
 ## Description
 
+**I puted comments into "js_colors/index.js" file only! Both versions are different only on character assignment level - whole logic is the same.**
+
 This project prints Fibonacci squares in the web browser console. Squares have dimensions: 1, 1, 2, 3, 5, 8, 13, etc. "pixels".
 Default number of iterations: **10**.
 

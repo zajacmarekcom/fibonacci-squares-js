@@ -18,8 +18,8 @@ When I want to print first iteration with border and second with border, I used 
 
 Finnaly I'm puting characters for each pixel of square. Result of run of colorful version (from "js_colors" folder) is shown on screenshot below:
 
-![image info](./result.png)
+![image info](./result.PNG)
 
 Code was tested with Edge Web Browser (Chromium engine). But in case of any problem with rendering colors in console, I prepared also second version which printing number of iteration instead of color. The result of this version is shown below:
 
-![image info](./result2.png)
+![image info](./result2.PNG)
